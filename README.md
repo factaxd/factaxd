@@ -15,7 +15,7 @@ I'm an indie game developer and frontend developer with a passion for creating i
 
 ## Skills
 
-- **Game Development**: Unity, Unreal Engine, C#, Game Design
+- **Game Development**: Unity, C#, Game Design
 - **Frontend Development**: HTML5, CSS3, JavaScript, React, Vue.js, SASS
 - **Tools**: Git, GitHub, Visual Studio Code, Figma, Blender
 - **Other Skills**: Problem-solving, effective communication, project management, teamwork
