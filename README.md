@@ -1,4 +1,5 @@
 # İsmail Yarar
+**`Facta (Developer/Designer)`**
 
 I'm an indie game developer and frontend developer with a passion for creating immersive experiences and intuitive user interfaces. Welcome to my GitHub profile!
 
