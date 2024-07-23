@@ -16,3 +16,6 @@ I'm an indie game developer and frontend developer with a passion for creating i
 - **Frontend Development**: HTML5, CSS3, JavaScript, React, Vue.js, SASS
 - **Tools**: Git, GitHub, Visual Studio Code, Figma, Blender
 - **Other Skills**: Problem-solving, effective communication, project management, teamwork
+
+I'm always open to collaborating on exciting projects or just having a chat about game development and frontend technologies. Feel free to reach out to me via ismileyarar@gmail.com.
+Thanks for visiting my profile! Let's build something amazing together.
