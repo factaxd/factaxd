@@ -17,5 +17,8 @@ I'm an indie game developer and frontend developer with a passion for creating i
 - **Tools**: Git, GitHub, Visual Studio Code, Figma, Blender
 - **Other Skills**: Problem-solving, effective communication, project management, teamwork
 
-** I'm always open to collaborating on exciting projects or just having a chat about game development and frontend technologies. Feel free to reach out to me via ismileyarar@gmail.com.
-** Thanks for visiting my profile! Let's build something amazing together.
+## Get in Touch
+
+I'm always open to collaborating on exciting projects or just having a chat about game development and frontend technologies. Feel free to reach out to me via [your email] or connect with me on [LinkedIn/Twitter/another social platform].
+
+Thanks for visiting my profile! Let's build something amazing together.
