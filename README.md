@@ -1,29 +1,31 @@
 # İsmail Yarar
-**`Facta (Developer/Designer)`**
+**`Facta (Developer/Data Enthusiast)`**
 
-I'm an indie game developer and frontend developer with a passion for creating immersive experiences and intuitive user interfaces. Welcome to my GitHub profile!
+I'm an indie game developer and data science enthusiast with a passion for creating immersive experiences and uncovering insights through data. Welcome to my GitHub profile!
 
+---
 
 ## About Me
 
-🎮 **Indie Game Developer**: I love crafting unique and engaging games. From concept to release, I handle every aspect of game development, including design, coding, and testing.
+🎮 **Game Developer**: I create unique and engaging games, handling everything from design to coding and testing.
 
-💻 **Frontend Developer**: I specialize in building responsive, user-friendly web applications. My tech stack includes HTML, CSS, JavaScript, and frameworks like React and Vue.js.
+📊 **Data Science Enthusiast**: Exploring data to uncover patterns, make predictions, and solve problems excites me. I work with tools like Python, Pandas, and Matplotlib.
 
-🧩 **Problem Solver**: As a problem solver and strong communicator, I am eager to demonstrate my value and talent. I thrive on tackling complex challenges and finding innovative solutions.
+🧩 **Problem Solver**: Tackling challenges with innovative solutions is my forte, paired with effective communication and teamwork.
 
-
+---
 
 ## Skills
 
 - **Game Development**: Unity, C#, Game Design
-- **Frontend Development**: HTML5, CSS3, JavaScript, React, Vue.js, SASS
+- **Data Science**: Python, Pandas, Matplotlib, Scikit-learn
 - **Tools**: Git, GitHub, Visual Studio Code, Figma, Blender
-- **Other Skills**: Problem-solving, effective communication, project management, teamwork
+- **Soft Skills**: Problem-solving, communication, project management
 
+---
 
 ## Get in Touch
 
-I'm always open to collaborating on exciting projects or just having a chat about game development and frontend technologies. Feel free to reach out to me via ismileyarar@gmail.com.
+I'm always open to collaborating on exciting projects in game development or data science. Reach me at: **ismileyarar@gmail.com**
 
-Thanks for visiting my profile! Let's build something amazing together.
+Thanks for visiting my profile! Let's create something amazing.
