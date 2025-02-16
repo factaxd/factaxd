@@ -10,4 +10,3 @@ Passionate full-stack developer with a love for building impactful software solu
 
 Let's connect and build something extraordinary → **ismileyarar@gmail.com**
 
-*"Great code is both art and science – I strive to master both."*
