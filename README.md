@@ -22,16 +22,6 @@ Hello! I'm İsmail, a software developer passionate about building impactful app
 
 ---
 
-### 🔥 My GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/factaxd">
-    <img src="https://github-readme-stats.vercel.app/api?username=factaxd&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333&bg_color=fff&border_radius=10&rank_icon=github" alt="Ismail Yarar's GitHub Stats" />
-  </a>
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
