@@ -37,7 +37,6 @@ Hello! I'm İsmail, a software developer with a strong passion for building robu
 | **Languages** | TypeScript, JavaScript, Python                   |
 | **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow/Keras (Exploring) |
 | **Databases** | PostgreSQL, MongoDB (Familiar)                    |
-| **Cloud** | (Mention specific platforms if you have experience, e.g., AWS, Azure, GCP - otherwise, keep it general) |
 | **Tools** | Git, Docker (Familiar)                           |
 
 ---
@@ -46,7 +45,7 @@ Hello! I'm İsmail, a software developer with a strong passion for building robu
 
 📧 **Email:** `ismileyarar@gmail.com` - Feel free to reach out!
 <br>
-🌐 **LinkedIn:** [Your LinkedIn Profile URL] (Add your LinkedIn profile URL here)
+🌐 **LinkedIn:** [https://www.linkedin.com/in/ismailyarar] (Add your LinkedIn profile URL here)
 
 ---
 
