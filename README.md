@@ -29,8 +29,8 @@ Hello! I'm İsmail, a software developer passionate about building impactful app
     <img src="https://github-readme-stats.vercel.app/api?username=factaxd&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333&bg_color=fff&border_radius=10&rank_icon=github" alt="Ismail Yarar's GitHub Stats" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/factaxd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=factaxd&hide_border=true&ring=007acc&currstreakno=333&fire=007acc&sideNums=333&sideLabels=333&dates=333&background=fff&border_radius=10" alt="Ismail Yarar's GitHub Streak" />
+   <a href="https://github.com/factaxd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=factaxd&layout=compact&hide_border=true&title_color=007acc&text_color=333&bg_color=fff&border_radius=10" alt="Ismail Yarar's Top Languages" />
   </a>
 </div>
 
