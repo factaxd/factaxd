@@ -32,9 +32,12 @@ Hello! I'm İsmail, a software developer passionate about building impactful app
 
 ---
 
+<div align="center">
+
 ### 🤝 Let's Connect!
 
 📧 **Email:** `ismileyarar@gmail.com`
-<div align="center">
-  <p>Feel free to reach out!</p>
+
+<p>Feel free to reach out!</p>
+
 </div>
