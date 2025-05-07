@@ -28,10 +28,6 @@ Hello! I'm İsmail, a software developer passionate about building impactful app
   <a href="https://github.com/factaxd">
     <img src="https://github-readme-stats.vercel.app/api?username=factaxd&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc&text_color=333&bg_color=fff&border_radius=10&rank_icon=github" alt="Ismail Yarar's GitHub Stats" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/factaxd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=factaxd&layout=compact&hide_border=true&title_color=007acc&text_color=333&bg_color=fff&border_radius=10" alt="Ismail Yarar's Top Languages" />
-  </a>
 </div>
 
 ---
@@ -39,11 +35,6 @@ Hello! I'm İsmail, a software developer passionate about building impactful app
 ### 🤝 Let's Connect!
 
 📧 **Email:** `ismileyarar@gmail.com`
-<br>
-🌐 **LinkedIn:** [https://www.linkedin.com/in/ismailyarar](https://www.linkedin.com/in/ismailyarar)
-
----
-
 <div align="center">
   <p>Feel free to reach out!</p>
 </div>
