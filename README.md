@@ -1,33 +1,32 @@
-<div align="center">
-
 # Hi there, I'm İsmail Yarar 👋
 
-**`Full-Stack Developer & Data Science Enthusiast`** ✨📈
-
-</div>
+**`Unity Game Developer & AI/Data Science Enthusiast`** 🎮🧠
 
 ---
 
-Hello! I'm İsmail, a software developer passionate about building impactful applications and exploring the world of data. I combine my **Full-Stack** expertise (React, Node.js, TypeScript) with a growing interest in **Data Analysis** and **AI/Machine Learning** (using Python) to create well-rounded solutions.
+Hello! I'm İsmail, a passionate software developer focused on creating engaging **game experiences with Unity** and exploring the fascinating world of **Data Science and Artificial Intelligence**. I'm driven by the challenge of building intelligent systems and leveraging data to solve complex problems.
 
 ---
 
-### 🌱 What I'm Focused On:
+### 🌱 What I'm Currently Focused On:
 
--   Building dynamic and responsive web applications.
--   Analyzing datasets to extract insights.
--   Exploring AI and Machine Learning concepts.
--   Working with cloud platforms.
--   Continuously learning and experimenting.
+-   Developing interactive and immersive games using **Unity and C#**.
+-   Exploring **AI and Machine Learning** algorithms for game development (e.g., NPC behavior, procedural content generation) and data analysis.
+-   Analyzing datasets to uncover insights and build predictive models using **Python**.
+-   Continuously learning new techniques in both game development and data science.
+-   Experimenting with the intersection of gaming and AI.
 
 ---
 
-<div align="center">
+### 🛠️ Technologies & Tools:
+
+-   **Game Development:** `Unity`, `C#`, `3D Modelling`, `Lua`, `2D`
+-   **Data Science & AI:** `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`
+-   
+---
 
 ### 🤝 Let's Connect!
 
 📧 **Email:** `ismileyarar@gmail.com`
+<p>Feel free to reach out if you'd like to collaborate or just chat about games, data, or AI!</p>
 
-<p>Feel free to reach out!</p>
-
-</div>
