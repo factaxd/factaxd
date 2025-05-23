@@ -22,7 +22,7 @@ Hello! I'm İsmail, a passionate software developer focused on creating engaging
 
 -   **Game Development:** `Unity`, `C#`, `3D Modelling`, `Lua`, `2D`
 -   **Data Science & AI:** `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow`
--   
+ 
 ---
 
 ### 🤝 Let's Connect!
