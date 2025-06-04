@@ -26,7 +26,7 @@ Hello! I'm İsmail, a passionate software developer focused on creating engaging
 ---
 
 ### 🤝 Let's Connect!
-
+📧 **Kaggle:** `(https://www.kaggle.com/ismailyarar1)`
 📧 **Email:** `ismileyarar@gmail.com`
 <p>Feel free to reach out if you'd like to collaborate or just chat about games, data, or AI!</p>
 
